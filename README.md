@@ -69,14 +69,6 @@
 
 ---
 
-### 🗣️ Quote of the Day
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=%22기술의+깊이는+혼자+파고%2C;%22;%22시스템의+가치는+함께+만든다.%22" alt="typing quote" />
-</p>
-
----
-
 ### ☕ Beyond Code
 
 개발은 결국 **사람의 일**이라고 믿습니다.  
