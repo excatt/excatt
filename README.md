@@ -20,28 +20,28 @@ Developer · Team Leader · System Architect
 ## Tech Stack
 
 **Languages**
-TypeScript · JavaScript · Python · Shell · Go · PHP
+TypeScript · JavaScript · Python · Java · Shell · Go · PHP · ActionScript 3
 
 **Frontend**
-Next.js · React · TailwindCSS · Zustand · React Query · Framer Motion · Radix UI
+Next.js · React · TailwindCSS · Zustand · React Query · Framer Motion · Radix UI · jQuery
 
 **Backend**
 NestJS · Node.js · Express · FastAPI · Prisma · TypeORM · GraphQL
 
 **Database**
-PostgreSQL · Redis · MongoDB · Supabase
+PostgreSQL · MySQL · Oracle · Redis · MongoDB · Supabase
 
 **Infrastructure**
-AWS (EC2 · S3 · Lambda · RDS) · Docker · Vercel · GitHub Actions · Nginx
+AWS · GCP · Azure · Docker · Vercel · GitHub Actions · Nginx
 
 **AI/ML**
-OpenAI API · LangChain · RAG · Vector DB
+OpenAI API · Gemini · LangChain · LangGraph · RAG · Vector DB
 
 **Testing**
 Jest · Vitest · Playwright · Pytest
 
 **Collaboration**
-Notion · Figma · Slack · Linear
+Jira · Confluence · Notion · Figma · Slack
 
 ---
 
