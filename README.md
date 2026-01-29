@@ -34,8 +34,11 @@ PostgreSQL · MySQL · Oracle · Redis · MongoDB · Supabase
 **Infrastructure**
 AWS · GCP · Azure · Docker · Vercel · GitHub Actions · Nginx
 
-**AI/ML**
-OpenAI API · Gemini · LangChain · LangGraph · RAG · Vector DB
+**AI/LLM**
+OpenAI API · Claude API · Gemini · LangChain · LangGraph · LlamaIndex · Hugging Face
+
+**RAG & Vector DB**
+Pinecone · Chroma · Weaviate · pgvector · FAISS · Semantic Search · Embedding Models
 
 **Testing**
 Jest · Vitest · Playwright · Pytest
