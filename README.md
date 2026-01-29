@@ -20,29 +20,28 @@ Developer · Team Leader · System Architect
 ## Tech Stack
 
 **Languages**
-TypeScript · JavaScript · Python · Shell
+TypeScript · JavaScript · Python · Shell · Go · PHP
 
 **Frontend**
-Next.js · React · TailwindCSS · Zustand
+Next.js · React · TailwindCSS · Zustand · React Query · Framer Motion · Radix UI
 
 **Backend**
-NestJS · Node.js · Express · Prisma
+NestJS · Node.js · Express · FastAPI · Prisma · TypeORM · GraphQL
 
 **Database**
-PostgreSQL · Redis · MongoDB
+PostgreSQL · Redis · MongoDB · Supabase
 
 **Infrastructure**
-AWS · Docker · Vercel · GitHub Actions
+AWS (EC2 · S3 · Lambda · RDS) · Docker · Vercel · GitHub Actions · Nginx
 
----
+**AI/ML**
+OpenAI API · LangChain · RAG · Vector DB
 
-## Projects
+**Testing**
+Jest · Vitest · Playwright · Pytest
 
-| Project | Description | Tech |
-|---------|-------------|------|
-| [superclaude-plusplus](https://github.com/excatt/superclaude-plusplus) | Extended Claude Code framework with 17 agents, 56+ commands, 29 skills | Shell |
-| [SuperKiwiSDK](https://github.com/excatt/SuperKiwiSDK) | TypeScript SDK | TypeScript |
-| [A4-calender](https://github.com/excatt/A4-calender) | A4 한 장으로 출력할 수 있는 달력 | PHP |
+**Collaboration**
+Notion · Figma · Slack · Linear
 
 ---
 
