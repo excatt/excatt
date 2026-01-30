@@ -26,13 +26,25 @@ TypeScript · JavaScript · Python · Java · Shell · Go · PHP · ActionScript
 Next.js · React · TailwindCSS · Zustand · React Query · Framer Motion · Radix UI · jQuery
 
 **Backend**
-NestJS · Node.js · Express · FastAPI · Prisma · TypeORM · GraphQL
+NestJS · Node.js · Express · FastAPI · Prisma · TypeORM · GraphQL · REST · gRPC · WebSocket · tRPC
 
-**Database**
-PostgreSQL · MySQL · Oracle · Redis · MongoDB · Supabase
+**Database & Search**
+PostgreSQL · MySQL · Oracle · Redis · MongoDB · Supabase · Elasticsearch · Algolia
+
+**Message Queue**
+Kafka · RabbitMQ · Redis Pub/Sub · Bull
 
 **Infrastructure**
-AWS · GCP · Azure · Docker · Vercel · GitHub Actions · Nginx
+AWS · GCP · Azure · Docker · Kubernetes · Helm · Vercel · Nginx
+
+**CI/CD & IaC**
+GitHub Actions · Jenkins · ArgoCD · GitLab CI · Terraform
+
+**Monitoring & Observability**
+Datadog · Grafana · Prometheus · Sentry · ELK Stack
+
+**Authentication**
+OAuth 2.0 · JWT · Auth0 · Firebase Auth
 
 **AI/LLM**
 OpenAI API · Claude API · Gemini · LangChain · LangGraph · LlamaIndex · Hugging Face
