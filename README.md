@@ -25,6 +25,9 @@ TypeScript · JavaScript · Python · Java · Shell · Go · PHP · ActionScript
 **Frontend**
 Next.js · React · TailwindCSS · Zustand · React Query · Framer Motion · Radix UI · jQuery
 
+**Desktop**
+Electron
+
 **Backend**
 NestJS · Node.js · Express · FastAPI · Prisma · TypeORM · GraphQL · REST · gRPC · WebSocket · tRPC
 
