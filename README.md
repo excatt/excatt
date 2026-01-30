@@ -37,6 +37,12 @@ Kafka · RabbitMQ · Redis Pub/Sub · Bull
 **Infrastructure**
 AWS · GCP · Azure · Docker · Kubernetes · Helm · Vercel · Nginx
 
+**Serverless**
+AWS Lambda · Cloudflare Workers · Vercel Functions
+
+**Storage & CDN**
+S3 · CloudFront · Cloudflare · Cloudinary
+
 **CI/CD & IaC**
 GitHub Actions · Jenkins · ArgoCD · GitLab CI · Terraform
 
@@ -54,6 +60,12 @@ Pinecone · Chroma · Weaviate · pgvector · FAISS · Semantic Search · Embedd
 
 **Testing**
 Jest · Vitest · Playwright · Pytest
+
+**Documentation**
+Swagger/OpenAPI · Storybook
+
+**Email & Notification**
+SendGrid · AWS SES · Firebase Cloud Messaging
 
 **Collaboration**
 Jira · Confluence · Notion · Figma · Slack
