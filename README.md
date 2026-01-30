@@ -47,7 +47,7 @@ Datadog · Grafana · Prometheus · Sentry · ELK Stack
 OAuth 2.0 · JWT · Auth0 · Firebase Auth
 
 **AI/LLM**
-OpenAI API · Claude API · Gemini · LangChain · LangGraph · LlamaIndex · Hugging Face
+OpenAI API · Claude API · Gemini · AWS Bedrock · LangChain · LangGraph · LlamaIndex · Hugging Face
 
 **RAG & Vector DB**
 Pinecone · Chroma · Weaviate · pgvector · FAISS · Semantic Search · Embedding Models
