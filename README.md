@@ -23,7 +23,7 @@ Developer · Team Leader · System Architect
 TypeScript · JavaScript · Python · Java · Shell · Go · PHP · ActionScript 3
 
 **Frontend**
-Next.js · React · TailwindCSS · Zustand · React Query · Framer Motion · Radix UI · jQuery
+Next.js · React · TailwindCSS · Zustand · React Query · jQuery
 
 **Desktop**
 Electron
@@ -32,10 +32,10 @@ Electron
 NestJS · Node.js · Express · FastAPI · Prisma · TypeORM · GraphQL · REST · gRPC · WebSocket · tRPC
 
 **Database & Search**
-PostgreSQL · MySQL · Oracle · Redis · MongoDB · Supabase · Elasticsearch · Algolia
+PostgreSQL · MySQL · Oracle · Redis · MongoDB · Supabase · Elasticsearch
 
 **Message Queue**
-Kafka · RabbitMQ · Redis Pub/Sub · Bull
+Kafka · RabbitMQ · Redis Pub/Sub
 
 **Infrastructure**
 AWS · GCP · Azure · Docker · Kubernetes · Helm · Vercel · Nginx
@@ -59,7 +59,7 @@ OAuth 2.0 · JWT · Auth0 · Firebase Auth
 OpenAI API · Claude API · Gemini · AWS Bedrock · LangChain · LangGraph · LlamaIndex · Hugging Face
 
 **RAG & Vector DB**
-Pinecone · Chroma · Weaviate · pgvector · FAISS · Semantic Search · Embedding Models
+Pinecone · Chroma · pgvector · FAISS · Semantic Search · Embedding Models
 
 **Testing**
 Jest · Vitest · Playwright · Pytest
